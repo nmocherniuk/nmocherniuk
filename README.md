@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **I love cycling and playing voleyball !**
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nmocherniuik&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nmocherniuk&show_icons=true&theme=radical)
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-mocherniuk-177a73283/)
