@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my **Portfolio React project
+- 🔭 I’m currently working on my **Portfolio React project**
 - 🌱 I’m currently learning **advanced Redux patterns and Next.js**
 - 👯 I’m looking to collaborate on **open-source React projects**
 - 🤔 I’m looking for help with **optimizing performance in large-scale React applications**
