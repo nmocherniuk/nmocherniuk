@@ -1,22 +1,46 @@
-### Hi there 👋
+# 🖥️ Nazar Mocherniuk
 
-<!--
-**nmocherniuik/nmocherniuik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Web developer`**
 
-Here are some ideas to get you started:
--->
+Developer with 2 years of hands-on experience in creating responsive and user-centric web applications. My expertise includes a solid tech stack with HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Git, Figma, Tailwind, and Redux. I also bring proficiency in Node.js, Express, and MySQL, having worked on both frontend and backend functionalities, including server-side logic and database management.
 
-- 🔭 I’m currently working on my **Portfolio React project**
-- 🌱 I’m currently learning **advanced Redux patterns and Node.js**
-- 👯 I’m looking to collaborate on **open-source React projects**
-- 🤔 I’m looking for help with **optimizing performance in large-scale React applications**
-- 💬 Ask me about **JavaScript, React, Redux, and web performance**
-- 📫 How to reach me: **[Email](mailto: nazar.mocherniuk@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nazar-mocherniuk-177a73283/)**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love cycling and playing voleyball !**
+<br />
+<br />
 
-### 📊 GitHub Stats
+#
+
+### 🎓 Languages | Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,css,html,typescript" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,obsidian" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents" />
+</p>
+
+#
+
+### 📚 Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,express" />
+</p>
+
+#
+
+### 📈 Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nmocherniuk&show_icons=true&theme=radical)
+
+#
 
 ### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-mocherniuk-177a73283/)
